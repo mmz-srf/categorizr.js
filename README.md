@@ -22,7 +22,7 @@ library scripts.
 
 It works by adding a class to the html element of your current device.
 
-Add categorizr.js or categorizr.min.js to your library build or add to
+Add categorizr.js or categorizr.js to your library build or add to
 your ender build with `ender add categorizr`.
 
 ## API
